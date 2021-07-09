@@ -1,0 +1,4 @@
+newmtl 0
+map_Kd iron_block.png
+newmtl 1
+map_Kd cauldron_side.png

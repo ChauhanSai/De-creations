@@ -1,0 +1,6 @@
+# Made in Blockbench 2.3.2
+newmtl lime_concrete
+map_Kd lime_concrete.png
+newmtl green_concrete
+map_Kd green_concrete.png
+newmtl none

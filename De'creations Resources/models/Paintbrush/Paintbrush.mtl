@@ -1,0 +1,8 @@
+# Made in Blockbench 2.3.2
+newmtl oak_log
+map_Kd oak_log.png
+newmtl stick
+map_Kd stick.png
+newmtl red_concrete
+map_Kd red_concrete.png
+newmtl none

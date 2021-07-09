@@ -1,0 +1,6 @@
+# Made in Blockbench 2.5.1
+newmtl oak_log
+map_Kd oak_log.png
+newmtl green_concrete_powder
+map_Kd green_concrete_powder.png
+newmtl none

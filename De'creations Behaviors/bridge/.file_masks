@@ -1,0 +1,11 @@
+{
+	"RP/textures/terrain_texture.json": {
+		"data": {}
+	},
+	"BP/blocks/burger.json": {
+		"data": {}
+	},
+	"RP/blocks.json": {
+		"data": {}
+	}
+}

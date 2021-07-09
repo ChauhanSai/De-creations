@@ -1,0 +1,13 @@
+{
+	"block": {
+		"BP/blocks/burger.json": {
+			"identifiers": [
+				"csdec:burger"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	}
+}
