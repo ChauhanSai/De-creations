@@ -1,4 +1,4 @@
-//bridge-file-version: #0
+//bridge-file-version: #3
 {
 	"format_version": [
 		1,
@@ -7,6 +7,30 @@
 	],
 	"csdec:burger": {
 		"textures": "burger",
+		"sound": "wood"
+	},
+	"csdec:banana": {
+		"textures": "banana",
+		"sound": "cloth"
+	},
+	"csdec:bush": {
+		"textures": "bush",
+		"sound": "sweet_berry_bush"
+	},
+	"csdec:csdeclog": {
+		"textures": "csdeclog",
+		"sound": "wood"
+	},
+	"csdec:money": {
+		"textures": "money",
+		"sound": "cloth"
+	},
+	"csdec:paintbrush": {
+		"textures": "paintbrush",
+		"sound": "wood"
+	},
+	"csdec:stool": {
+		"textures": "stool",
 		"sound": "wood"
 	}
 }

@@ -7,5 +7,23 @@
 	},
 	"RP/blocks.json": {
 		"data": {}
+	},
+	"BP/blocks/banana.json": {
+		"data": {}
+	},
+	"BP/blocks/bush.json": {
+		"data": {}
+	},
+	"BP/blocks/money.json": {
+		"data": {}
+	},
+	"BP/blocks/paintbrush.json": {
+		"data": {}
+	},
+	"BP/blocks/stool.json": {
+		"data": {}
+	},
+	"BP/blocks/csdeclog.json": {
+		"data": {}
 	}
 }

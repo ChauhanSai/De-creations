@@ -2,7 +2,61 @@
 	"block": {
 		"BP/blocks/burger.json": {
 			"identifiers": [
-				"csdec:burger"
+				"csdec:csdeclog"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/banana.json": {
+			"identifiers": [
+				"csdec:csdeclog"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/bush.json": {
+			"identifiers": [
+				"csdec:csdeclog"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/money.json": {
+			"identifiers": [
+				"csdec:csdeclog"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/paintbrush.json": {
+			"identifiers": [
+				"csdec:csdeclog"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/stool.json": {
+			"identifiers": [
+				"csdec:csdeclog"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/csdeclog.json": {
+			"identifiers": [
+				"csdec:csdeclog"
 			],
 			"events": [],
 			"recipe_tags": [],

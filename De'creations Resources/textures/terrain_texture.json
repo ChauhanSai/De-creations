@@ -1,4 +1,4 @@
-//bridge-file-version: #0
+//bridge-file-version: #4
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -7,6 +7,24 @@
 	"texture_data": {
 		"burger": {
 			"textures": "textures/blocks/burger"
+		},
+		"banana": {
+			"textures": "textures/blocks/banana"
+		},
+		"bush": {
+			"textures": "textures/blocks/bush"
+		},
+		"csdeclog": {
+			"textures": "textures/blocks/csdeclog"
+		},
+		"money": {
+			"textures": "textures/blocks/money"
+		},
+		"paintbrush": {
+			"textures": "textures/blocks/paintbrush"
+		},
+		"stool": {
+			"textures": "textures/blocks/stool"
 		}
 	}
 }
