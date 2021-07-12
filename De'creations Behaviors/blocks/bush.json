@@ -1,4 +1,4 @@
-//bridge-file-version: #11
+//bridge-file-version: #13
 {
 	"format_version": "1.16.100",
 	"minecraft:block": {
@@ -19,26 +19,26 @@
 			"minecraft:explosion_resistance": 1,
 			"minecraft:pick_collision": {
 				"origin": [
-					-7,
+					-5,
 					0,
-					-7
+					-5
 				],
 				"size": [
-					14,
-					6,
-					14
+					10,
+					15,
+					10
 				]
 			},
 			"minecraft:entity_collision": {
 				"origin": [
-					-7,
+					-5,
 					0,
-					-7
+					-5
 				],
 				"size": [
-					14,
-					6,
-					14
+					10,
+					15,
+					10
 				]
 			}
 		},

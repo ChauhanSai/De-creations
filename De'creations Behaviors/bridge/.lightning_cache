@@ -11,7 +11,7 @@
 		},
 		"BP/blocks/banana.json": {
 			"identifiers": [
-				"csdec:csdeclog"
+				"csdec:banana"
 			],
 			"events": [],
 			"recipe_tags": [],
@@ -20,7 +20,7 @@
 		},
 		"BP/blocks/bush.json": {
 			"identifiers": [
-				"csdec:csdeclog"
+				"csdec:bush"
 			],
 			"events": [],
 			"recipe_tags": [],
@@ -29,7 +29,7 @@
 		},
 		"BP/blocks/money.json": {
 			"identifiers": [
-				"csdec:csdeclog"
+				"csdec:money"
 			],
 			"events": [],
 			"recipe_tags": [],
@@ -38,7 +38,7 @@
 		},
 		"BP/blocks/paintbrush.json": {
 			"identifiers": [
-				"csdec:csdeclog"
+				"csdec:paintbrush"
 			],
 			"events": [],
 			"recipe_tags": [],
@@ -47,7 +47,7 @@
 		},
 		"BP/blocks/stool.json": {
 			"identifiers": [
-				"csdec:csdeclog"
+				"csdec:stool"
 			],
 			"events": [],
 			"recipe_tags": [],
