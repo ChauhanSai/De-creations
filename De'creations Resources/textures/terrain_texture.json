@@ -1,4 +1,4 @@
-//bridge-file-version: #4
+//bridge-file-version: #5
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -25,6 +25,9 @@
 		},
 		"stool": {
 			"textures": "textures/blocks/stool"
+		},
+		"blender": {
+			"textures": "textures/blocks/blender"
 		}
 	}
 }

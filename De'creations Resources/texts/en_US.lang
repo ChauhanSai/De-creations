@@ -1,4 +1,4 @@
-##bridge-file-version: #2
+##bridge-file-version: #3
 pack.name=De'creations Resources
 pack.description=Placeholder
 tile.csdec:burger.name=Burger
@@ -8,3 +8,4 @@ tile.csdec:csdeclog.name=Log
 tile.csdec:money.name=Money
 tile.csdec:paintbrush.name=Paintbrush
 tile.csdec:stool.name=Stool
+tile.csdec:blender.name=Blender

@@ -25,5 +25,8 @@
 	},
 	"BP/blocks/csdeclog.json": {
 		"data": {}
+	},
+	"BP/blocks/blender.json": {
+		"data": {}
 	}
 }
