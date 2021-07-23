@@ -1,47 +1,45 @@
-//bridge-file-version: #16
 {
 	"format_version": "1.16.100",
 	"minecraft:block": {
 		"description": {
-			"identifier": "csdec:stool"
+			"identifier": "csdec:burger"
 		},
 		"components": {
-			"minecraft:geometry": "geometry.stool",
+			"minecraft:geometry": "geometry.burger",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "stool",
+					"texture": "burger",
 					"render_method": "opaque"
 				}
 			},
 			"minecraft:block_light_absorption": 0,
-			"minecraft:destroy_time": 0.5,
-			"minecraft:map_color": "#ffffff",
+			"minecraft:destroy_time": 0,
+			"minecraft:map_color": "#967441",
 			"minecraft:explosion_resistance": 1,
 			"minecraft:pick_collision": {
 				"origin": [
-					-8,
+					-7,
 					0,
-					-8
+					-7
 				],
 				"size": [
-					16,
-					5,
-					16
+					14,
+					6,
+					14
 				]
 			},
 			"minecraft:entity_collision": {
 				"origin": [
-					-8,
+					-7,
 					0,
-					-8
+					-7
 				],
 				"size": [
-					16,
-					5,
-					16
+					14,
+					6,
+					14
 				]
 			}
-		},
-		"events": {}
+		}
 	}
 }

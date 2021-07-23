@@ -1,0 +1,15 @@
+{
+	"type": "minecraftBedrock",
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"bridge": {
+		"v1CompatMode": true
+	},
+	"capabilities": [],
+	"namespace": "csdec",
+	"targetVersion": "1.16.100",
+	"name": "De'creations ",
+	"description": "Placeholder"
+}
