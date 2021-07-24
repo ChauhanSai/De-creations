@@ -1,1 +1,15 @@
-{}
+pack.name=De'creations Resources
+pack.description=Placeholder
+tile.csdec:decreation.name=De'creation Table
+crafting.decreation.name=Workbench
+tile.csdec:burger.name=Burger
+tile.csdec:bush.name=Bush
+tile.csdec:money.name=Money Pile
+tile.csdec:paintbrush.name=Paintbrush
+tile.csdec:stool.name=Stool
+tile.csdec:csdeclog.name=Log
+tile.csdec:banana.name=Bananas
+tile.csdec:blender.name=Blender
+tile.csdec:fridge_top.name=Refridgerator (Top)
+tile.csdec:fridge_bottom.name=Refridgerator (Bottom)
+tile.csdec:soda.name=Soda Can

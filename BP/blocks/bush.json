@@ -2,8 +2,58 @@
 	"format_version": "1.16.100",
 	"minecraft:block": {
 		"description": {
+			"properties": {
+				"bridge:block_rotation": [
+					2,
+					3,
+					4,
+					5
+				]
+			},
 			"identifier": "csdec:bush"
 		},
+		"permutations": [
+			{
+				"condition": "query.block_property('bridge:block_rotation') == 2",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						180,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('bridge:block_rotation') == 3",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						0,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('bridge:block_rotation') == 4",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						270,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('bridge:block_rotation') == 5",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						90,
+						0
+					]
+				}
+			}
+		],
 		"components": {
 			"minecraft:geometry": "geometry.bush",
 			"minecraft:material_instances": {
@@ -13,7 +63,7 @@
 				}
 			},
 			"minecraft:block_light_absorption": 0,
-			"minecraft:destroy_time": 0,
+			"minecraft:destroy_time": 1,
 			"minecraft:map_color": "#ffffff",
 			"minecraft:explosion_resistance": 1,
 			"minecraft:pick_collision": {
@@ -39,6 +89,25 @@
 					15,
 					10
 				]
+			},
+			"minecraft:placement_filter": {
+				"conditions": [
+					{
+						"allowed_faces": [
+							"up"
+						]
+					}
+				]
+			},
+			"minecraft:on_player_placing": {
+				"event": "bridge:update_rotation"
+			}
+		},
+		"events": {
+			"bridge:update_rotation": {
+				"set_block_property": {
+					"bridge:block_rotation": "query.cardinal_facing_2d"
+				}
 			}
 		}
 	}

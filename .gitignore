@@ -3,7 +3,7 @@ Desktop.ini
 !.bridge/
 .bridge/*
 !.bridge/compiler/*
-!.bridge/extensions
+!.bridge/extensions/*
 !.bridge/config.json
 builds
 *.mcaddon

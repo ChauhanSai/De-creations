@@ -27,6 +27,15 @@
 		},
 		"blender": {
 			"textures": "textures/blocks/blender"
+		},
+		"decreation": {
+			"textures": "textures/blocks/decreation"
+		},
+		"fridge": {
+			"textures": "textures/blocks/fridge"
+		},
+		"soda": {
+			"textures": "textures/blocks/soda"
 		}
 	}
 }
