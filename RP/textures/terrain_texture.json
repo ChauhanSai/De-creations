@@ -36,6 +36,21 @@
 		},
 		"soda": {
 			"textures": "textures/blocks/soda"
+		},
+		"bricks": {
+			"textures": "textures/blocks/bricks"
+		},
+		"notes": {
+			"textures": "textures/blocks/notes"
+		},
+		"paper": {
+			"textures": "textures/blocks/paper"
+		},
+		"pen": {
+			"textures": "textures/blocks/pen"
+		},
+		"sticks": {
+			"textures": "textures/blocks/sticks"
 		}
 	}
 }

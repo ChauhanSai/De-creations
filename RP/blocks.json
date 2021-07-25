@@ -4,6 +4,10 @@
 		1,
 		0
 	],
+	"csdec:decreation": {
+		"textures": "decreation",
+		"sound": "stone"
+	},
 	"csdec:burger": {
 		"textures": "burger",
 		"sound": "wood"
@@ -30,6 +34,42 @@
 	},
 	"csdec:stool": {
 		"textures": "stool",
+		"sound": "wood"
+	},
+	"csdec:blender": {
+		"textures": "blender",
+		"sound": "metal"
+	},
+	"csdec:bricks": {
+		"textures": "bricks",
+		"sound": "brick"
+	},
+	"csdec:fridge_bottom": {
+		"textures": "fridge",
+		"sound": "metal"
+	},
+	"csdec:fridge_top": {
+		"textures": "fridge",
+		"sound": "metal"
+	},
+	"csdec:notes": {
+		"textures": "notes",
+		"sound": "cloth"
+	},
+	"csdec:paper": {
+		"textures": "paper",
+		"sound": "cloth"
+	},
+	"csdec:pen": {
+		"textures": "pen",
+		"sound": "lodestone"
+	},
+	"csdec:soda": {
+		"textures": "soda",
+		"sound": "metal"
+	},
+	"csdec:sticks": {
+		"textures": "sticks",
 		"sound": "wood"
 	}
 }
