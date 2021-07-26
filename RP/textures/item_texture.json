@@ -1,5 +1,91 @@
 {
-  "resource_pack_name": "bridgeRP",
-  "texture_name": "atlas.items",
-  "texture_data": {}
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"plastic": {
+			"textures": [
+				"textures/items/plastic"
+			]
+		},
+		"plastic_black": {
+			"textures": [
+				"textures/items/plastic_black"
+			]
+		},
+		"plastic_blue": {
+			"textures": [
+				"textures/items/plastic_blue"
+			]
+		},
+		"plastic_brown": {
+			"textures": [
+				"textures/items/plastic_brown"
+			]
+		},
+		"plastic_cyan": {
+			"textures": [
+				"textures/items/plastic_cyan"
+			]
+		},
+		"plastic_gray": {
+			"textures": [
+				"textures/items/plastic_gray"
+			]
+		},
+		"plastic_green": {
+			"textures": [
+				"textures/items/plastic_green"
+			]
+		},
+		"plastic_light_blue": {
+			"textures": [
+				"textures/items/plastic_light_blue"
+			]
+		},
+		"plastic_lime": {
+			"textures": [
+				"textures/items/plastic_lime"
+			]
+		},
+		"plastic_magenta": {
+			"textures": [
+				"textures/items/plastic_magenta"
+			]
+		},
+		"plastic_orange": {
+			"textures": [
+				"textures/items/plastic_orange"
+			]
+		},
+		"plastic_pink": {
+			"textures": [
+				"textures/items/plastic_pink"
+			]
+		},
+		"plastic_purple": {
+			"textures": [
+				"textures/items/plastic_purple"
+			]
+		},
+		"plastic_red": {
+			"textures": [
+				"textures/items/plastic_red"
+			]
+		},
+		"plastic_silver": {
+			"textures": [
+				"textures/items/plastic_silver"
+			]
+		},
+		"plastic_white": {
+			"textures": [
+				"textures/items/plastic_white"
+			]
+		},
+		"plastic_yellow": {
+			"textures": [
+				"textures/items/plastic_yellow"
+			]
+		}
+	}
 }

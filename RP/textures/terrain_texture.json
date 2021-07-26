@@ -5,52 +5,52 @@
 	"num_mip_levels": 4,
 	"texture_data": {
 		"burger": {
-			"textures": "textures/blocks/burger"
+			"textures": "textures/decreations/burger"
 		},
 		"banana": {
-			"textures": "textures/blocks/banana"
+			"textures": "textures/decreations/banana"
 		},
 		"bush": {
-			"textures": "textures/blocks/bush"
+			"textures": "textures/decreations/bush"
 		},
 		"csdeclog": {
-			"textures": "textures/blocks/csdeclog"
+			"textures": "textures/decreations/csdeclog"
 		},
 		"money": {
-			"textures": "textures/blocks/money"
+			"textures": "textures/decreations/money"
 		},
 		"paintbrush": {
-			"textures": "textures/blocks/paintbrush"
+			"textures": "textures/decreations/paintbrush"
 		},
 		"stool": {
-			"textures": "textures/blocks/stool"
+			"textures": "textures/decreations/stool"
 		},
 		"blender": {
-			"textures": "textures/blocks/blender"
+			"textures": "textures/decreations/blender"
 		},
 		"decreation": {
-			"textures": "textures/blocks/decreation"
+			"textures": "textures/decreations/decreation"
 		},
 		"fridge": {
-			"textures": "textures/blocks/fridge"
+			"textures": "textures/decreations/fridge"
 		},
 		"soda": {
-			"textures": "textures/blocks/soda"
+			"textures": "textures/decreations/soda"
 		},
 		"bricks": {
-			"textures": "textures/blocks/bricks"
+			"textures": "textures/decreations/bricks"
 		},
 		"notes": {
-			"textures": "textures/blocks/notes"
+			"textures": "textures/decreations/notes"
 		},
 		"paper": {
-			"textures": "textures/blocks/paper"
+			"textures": "textures/decreations/paper"
 		},
 		"pen": {
-			"textures": "textures/blocks/pen"
+			"textures": "textures/decreations/pen"
 		},
 		"sticks": {
-			"textures": "textures/blocks/sticks"
+			"textures": "textures/decreations/sticks"
 		}
 	}
 }
