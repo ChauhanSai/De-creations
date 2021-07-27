@@ -78,18 +78,7 @@
 					16
 				]
 			},
-			"minecraft:entity_collision": {
-				"origin": [
-					-6,
-					0,
-					-8
-				],
-				"size": [
-					12,
-					0,
-					16
-				]
-			},
+			"minecraft:entity_collision": false,
 			"minecraft:placement_filter": {
 				"conditions": [
 					{

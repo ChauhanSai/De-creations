@@ -10,7 +10,7 @@
 					5
 				]
 			},
-			"identifier": "csdec:bush"
+			"identifier": "csdec:hockey"
 		},
 		"permutations": [
 			{
@@ -55,39 +55,39 @@
 			}
 		],
 		"components": {
-			"minecraft:geometry": "geometry.bush",
+			"minecraft:geometry": "geometry.hockey",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "bush",
+					"texture": "hockey",
 					"render_method": "opaque"
 				}
 			},
 			"minecraft:block_light_absorption": 0,
 			"minecraft:destroy_time": 1,
-			"minecraft:map_color": "#ffffff",
+			"minecraft:map_color": "#8f2121",
 			"minecraft:explosion_resistance": 1,
 			"minecraft:pick_collision": {
 				"origin": [
-					-5,
+					-7,
 					0,
-					-5
+					-7
 				],
 				"size": [
-					10,
-					16,
-					10
+					14,
+					4,
+					14
 				]
 			},
 			"minecraft:entity_collision": {
 				"origin": [
-					-5,
+					-7,
 					0,
-					-5
+					-6
 				],
 				"size": [
-					10,
-					16,
-					10
+					14,
+					4,
+					13
 				]
 			},
 			"minecraft:placement_filter": {

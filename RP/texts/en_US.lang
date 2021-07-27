@@ -1,6 +1,9 @@
 pack.name=De'creations Resources
 pack.description=Placeholder
+
 tile.csdec:decreation.name=De'creation Table
+crafting.decreation.name=Workbench
+
 item.csdec:plastic=Plastic
 item.csdec:plastic_black=Plastic (Black)
 item.csdec:plastic_blue=Plastic (Blue)
@@ -18,7 +21,7 @@ item.csdec:plastic_red=Plastic (Red)
 item.csdec:plastic_silver=Plastic (Light Gray)
 item.csdec:plastic_white=Plastic (White)
 item.csdec:plastic_yellow=Plastic (Yellow)
-crafting.decreation.name=Workbench
+
 tile.csdec:burger.name=Burger
 tile.csdec:bush.name=Bush
 tile.csdec:money.name=Money Pile
@@ -35,3 +38,9 @@ tile.csdec:notes.name=Notepad
 tile.csdec:paper.name=Paper & Pen
 tile.csdec:pen.name=Pen
 tile.csdec:sticks.name=Sticks Pile
+tile.csdec:envelope.name=Envelope
+tile.csdec:drive.name=Drive
+tile.csdec:wrench.name=Wrench
+tile.csdec:hockey.name=Hockey Equipment
+tile.csdec:pong.name= Ping Pong Equipment
+tile.csdec:shower.name=Showerhead

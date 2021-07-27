@@ -51,6 +51,24 @@
 		},
 		"sticks": {
 			"textures": "textures/decreations/sticks"
+		},
+		"envelope": {
+			"textures": "textures/decreations/envelope"
+		},
+		"drive": {
+			"textures": "textures/decreations/drive"
+		},
+		"wrench": {
+			"textures": "textures/decreations/wrench"
+		},
+		"hockey": {
+			"textures": "textures/decreations/hockey"
+		},
+		"pong": {
+			"textures": "textures/decreations/pong"
+		},
+		"shower": {
+			"textures": "textures/decreations/shower"
 		}
 	}
 }

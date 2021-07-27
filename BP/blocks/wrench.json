@@ -10,7 +10,7 @@
 					5
 				]
 			},
-			"identifier": "csdec:bush"
+			"identifier": "csdec:wrench"
 		},
 		"permutations": [
 			{
@@ -55,10 +55,10 @@
 			}
 		],
 		"components": {
-			"minecraft:geometry": "geometry.bush",
+			"minecraft:geometry": "geometry.wrench",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "bush",
+					"texture": "wrench",
 					"render_method": "opaque"
 				}
 			},
@@ -68,14 +68,14 @@
 			"minecraft:explosion_resistance": 1,
 			"minecraft:pick_collision": {
 				"origin": [
-					-5,
+					-6,
 					0,
-					-5
+					-6
 				],
 				"size": [
-					10,
-					16,
-					10
+					12,
+					1,
+					12
 				]
 			},
 			"minecraft:entity_collision": {
@@ -86,7 +86,7 @@
 				],
 				"size": [
 					10,
-					16,
+					1,
 					10
 				]
 			},

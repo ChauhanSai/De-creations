@@ -80,12 +80,12 @@
 			},
 			"minecraft:entity_collision": {
 				"origin": [
-					-8,
+					-7,
 					0,
 					-6
 				],
 				"size": [
-					15,
+					14,
 					6,
 					11
 				]
