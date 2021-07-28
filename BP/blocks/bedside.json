@@ -10,7 +10,7 @@
 					5
 				]
 			},
-			"identifier": "csdec:bush"
+			"identifier": "csdec:bedside"
 		},
 		"permutations": [
 			{
@@ -55,47 +55,46 @@
 			}
 		],
 		"components": {
-			"minecraft:geometry": "geometry.bush",
+			"minecraft:geometry": "geometry.bedside",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "bush",
+					"texture": "bedside",
 					"render_method": "opaque"
 				}
 			},
 			"minecraft:block_light_absorption": 0,
 			"minecraft:destroy_time": 1,
-			"minecraft:map_color": "#ffffff",
+			"minecraft:map_color": "#b8945f",
 			"minecraft:explosion_resistance": 1,
 			"minecraft:pick_collision": {
 				"origin": [
-					-5,
+					-8,
 					0,
-					-5
+					-8
 				],
 				"size": [
-					10,
 					16,
-					10
+					10,
+					16
 				]
 			},
 			"minecraft:entity_collision": {
 				"origin": [
-					-5,
+					-8,
 					0,
-					-5
+					-8
 				],
 				"size": [
-					10,
 					16,
-					10
+					10,
+					16
 				]
 			},
 			"minecraft:placement_filter": {
 				"conditions": [
 					{
 						"allowed_faces": [
-							"up",
-							"down"
+							"up"
 						]
 					}
 				]

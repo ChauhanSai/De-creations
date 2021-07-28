@@ -71,5 +71,41 @@
 	"csdec:sticks": {
 		"textures": "sticks",
 		"sound": "wood"
+	},
+	"csdec:hockey": {
+		"textures": "hockey",
+		"sound": "lodestone"
+	},
+	"csdec:pong": {
+		"textures": "pong",
+		"sound": "lodestone"
+	},
+	"csdec:shower": {
+		"textures": "shower",
+		"sound": "metal"
+	},
+	"csdec:sink": {
+		"textures": "sink",
+		"sound": "metal"
+	},
+	"csdec:sinkoutdoor": {
+		"textures": "sinkoutdoor",
+		"sound": "metal"
+	},
+	"csdec:toilet": {
+		"textures": "toilet",
+		"sound": "metal"
+	},
+	"csdec:bedside": {
+		"textures": "sinkoutdoor",
+		"sound": "wood"
+	},
+	"csdec:books": {
+		"textures": "sinkoutdoor",
+		"sound": "cloth"
+	},
+	"csdec:soap": {
+		"textures": "sinkoutdoor",
+		"sound": "slime"
 	}
 }

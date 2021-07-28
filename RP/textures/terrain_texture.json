@@ -69,6 +69,24 @@
 		},
 		"shower": {
 			"textures": "textures/decreations/shower"
+		},
+		"sink": {
+			"textures": "textures/decreations/sink"
+		},
+		"sinkoutdoor": {
+			"textures": "textures/decreations/sinkoutdoor"
+		},
+		"toilet": {
+			"textures": "textures/decreations/toilet"
+		},
+		"bedside": {
+			"textures": "textures/decreations/bedside"
+		},
+		"books": {
+			"textures": "textures/decreations/books"
+		},
+		"soap": {
+			"textures": "textures/decreations/soap"
 		}
 	}
 }

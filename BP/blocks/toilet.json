@@ -10,7 +10,7 @@
 					5
 				]
 			},
-			"identifier": "csdec:bush"
+			"identifier": "csdec:toilet"
 		},
 		"permutations": [
 			{
@@ -55,47 +55,46 @@
 			}
 		],
 		"components": {
-			"minecraft:geometry": "geometry.bush",
+			"minecraft:geometry": "geometry.toilet",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "bush",
+					"texture": "toilet",
 					"render_method": "opaque"
 				}
 			},
 			"minecraft:block_light_absorption": 0,
 			"minecraft:destroy_time": 1,
-			"minecraft:map_color": "#ffffff",
+			"minecraft:map_color": "#d0d6d7",
 			"minecraft:explosion_resistance": 1,
 			"minecraft:pick_collision": {
 				"origin": [
-					-5,
+					-6,
 					0,
-					-5
+					-7
 				],
 				"size": [
-					10,
+					12,
 					16,
-					10
+					15
 				]
 			},
 			"minecraft:entity_collision": {
 				"origin": [
-					-5,
+					-6,
 					0,
-					-5
+					-7
 				],
 				"size": [
-					10,
-					16,
-					10
+					12,
+					8,
+					15
 				]
 			},
 			"minecraft:placement_filter": {
 				"conditions": [
 					{
 						"allowed_faces": [
-							"up",
-							"down"
+							"up"
 						]
 					}
 				]
