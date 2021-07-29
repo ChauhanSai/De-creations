@@ -107,5 +107,221 @@
 	"csdec:soap": {
 		"textures": "sinkoutdoor",
 		"sound": "slime"
+	},
+	"csdec:rollfront": {
+		"textures": "roll",
+		"sound": "cloth"
+	},
+	"csdec:rollback": {
+		"textures": "roll",
+		"sound": "cloth"
+	},
+	"csdec:tv": {
+		"textures": "tv",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_block": {
+		"textures": "plastic",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_cut": {
+		"textures": "plastic_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_tiles": {
+		"textures": "plastic_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_black_block": {
+		"textures": "plastic_black",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_black_cut": {
+		"textures": "plastic_black_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_black_tiles": {
+		"textures": "plastic_black_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_blue_block": {
+		"textures": "plastic_blue",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_blue_cut": {
+		"textures": "plastic_blue_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_blue_tiles": {
+		"textures": "plastic_blue_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_brown_block": {
+		"textures": "plastic_brown",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_brown_cut": {
+		"textures": "plastic_brown_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_brown_tiles": {
+		"textures": "plastic_brown_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_cyan_block": {
+		"textures": "plastic_cyan",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_cyan_cut": {
+		"textures": "plastic_cyan_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_cyan_tiles": {
+		"textures": "plastic_cyan_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_gray_block": {
+		"textures": "plastic_gray",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_gray_cut": {
+		"textures": "plastic_gray_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_gray_tiles": {
+		"textures": "plastic_gray_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_green_block": {
+		"textures": "plastic_green",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_green_cut": {
+		"textures": "plastic_green_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_green_tiles": {
+		"textures": "plastic_green_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_light_blue_block": {
+		"textures": "plastic_light_blue",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_light_blue_cut": {
+		"textures": "plastic_light_blue_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_light_blue_tiles": {
+		"textures": "plastic_light_blue_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_lime_block": {
+		"textures": "plastic_lime",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_lime_cut": {
+		"textures": "plastic_lime_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_lime_tiles": {
+		"textures": "plastic_lime_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_magenta_block": {
+		"textures": "plastic_magenta",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_magenta_cut": {
+		"textures": "plastic_magenta_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_magenta_tiles": {
+		"textures": "plastic_magenta_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_orange_block": {
+		"textures": "plastic_orange",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_orange_cut": {
+		"textures": "plastic_orange_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_orange_tiles": {
+		"textures": "plastic_orange_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_pink_block": {
+		"textures": "plastic_pink",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_pink_cut": {
+		"textures": "plastic_pink_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_pink_tiles": {
+		"textures": "plastic_pink_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_purple_block": {
+		"textures": "plastic_purple",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_purple_cut": {
+		"textures": "plastic_purple_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_purple_tiles": {
+		"textures": "plastic_purple_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_red_block": {
+		"textures": "plastic_red",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_red_cut": {
+		"textures": "plastic_red_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_red_tiles": {
+		"textures": "plastic_red_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_silver_block": {
+		"textures": "plastic_silver",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_silver_cut": {
+		"textures": "plastic_silver_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_silver_tiles": {
+		"textures": "plastic_silver_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_white_block": {
+		"textures": "plastic_white",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_white_cut": {
+		"textures": "plastic_white_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_white_tiles": {
+		"textures": "plastic_white_tiles",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_yellow_block": {
+		"textures": "plastic_yellow",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_yellow_cut": {
+		"textures": "plastic_yellow_cut",
+		"sound": "lodestone"
+	},
+	"csdec:plastic_yellow_tiles": {
+		"textures": "plastic_yellow_tiles",
+		"sound": "lodestone"
 	}
 }

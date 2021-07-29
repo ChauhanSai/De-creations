@@ -1,0 +1,115 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"properties": {
+				"bridge:block_rotation": [
+					2,
+					3,
+					4,
+					5
+				]
+			},
+			"identifier": "csdec:rollback"
+		},
+		"permutations": [
+			{
+				"condition": "query.block_property('bridge:block_rotation') == 2",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						180,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('bridge:block_rotation') == 3",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						0,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('bridge:block_rotation') == 4",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						270,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('bridge:block_rotation') == 5",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						90,
+						0
+					]
+				}
+			}
+		],
+		"components": {
+			"minecraft:geometry": "geometry.rollback",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "roll",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:block_light_absorption": 0,
+			"minecraft:destroy_time": 1,
+			"minecraft:map_color": "#cfd5d6",
+			"minecraft:explosion_resistance": 1,
+			"minecraft:pick_collision": {
+				"origin": [
+					-4,
+					0,
+					4
+				],
+				"size": [
+					8,
+					4,
+					4
+				]
+			},
+			"minecraft:entity_collision": {
+				"origin": [
+					-4,
+					1,
+					5
+				],
+				"size": [
+					8,
+					3,
+					3
+				]
+			},
+			"minecraft:placement_filter": {
+				"conditions": [
+					{
+						"allowed_faces": [
+							"side",
+							"down"
+						]
+					}
+				]
+			},
+			"minecraft:on_player_placing": {
+				"event": "bridge:update_rotation"
+			}
+		},
+		"events": {
+			"bridge:update_rotation": {
+				"set_block_property": {
+					"bridge:block_rotation": "query.cardinal_facing_2d"
+				}
+			}
+		}
+	}
+}

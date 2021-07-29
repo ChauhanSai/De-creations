@@ -1,0 +1,25 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csdec:plastic_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"xx",
+			"xx"
+		],
+		"key": {
+			"x": {
+				"item": "csdec:plastic"
+			}
+		},
+		"result": [
+			{
+				"item": "csdec:plastic_block"
+			}
+		]
+	}
+}

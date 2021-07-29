@@ -87,6 +87,165 @@
 		},
 		"soap": {
 			"textures": "textures/decreations/soap"
+		},
+		"tv": {
+			"textures": "textures/decreations/tv"
+		},
+		"roll": {
+			"textures": "textures/decreations/roll"
+		},
+		"plastic": {
+			"textures": "textures/blocks/plastic"
+		},
+		"plastic_cut": {
+			"textures": "textures/blocks/plastic_cut"
+		},
+		"plastic_tiles": {
+			"textures": "textures/blocks/plastic_tiles"
+		},
+		"plastic_black": {
+			"textures": "textures/blocks/plastic_black"
+		},
+		"plastic_black_cut": {
+			"textures": "textures/blocks/plastic_black_cut"
+		},
+		"plastic_black_tiles": {
+			"textures": "textures/blocks/plastic_black_tiles"
+		},
+		"plastic_blue": {
+			"textures": "textures/blocks/plastic_blue"
+		},
+		"plastic_blue_cut": {
+			"textures": "textures/blocks/plastic_blue_cut"
+		},
+		"plastic_blue_tiles": {
+			"textures": "textures/blocks/plastic_blue_tiles"
+		},
+		"plastic_brown": {
+			"textures": "textures/blocks/plastic_brown"
+		},
+		"plastic_brown_cut": {
+			"textures": "textures/blocks/plastic_brown_cut"
+		},
+		"plastic_brown_tiles": {
+			"textures": "textures/blocks/plastic_brown_tiles"
+		},
+		"plastic_cyan": {
+			"textures": "textures/blocks/plastic_cyan"
+		},
+		"plastic_cyan_cut": {
+			"textures": "textures/blocks/plastic_cyan_cut"
+		},
+		"plastic_cyan_tiles": {
+			"textures": "textures/blocks/plastic_cyan_tiles"
+		},
+		"plastic_gray": {
+			"textures": "textures/blocks/plastic_gray"
+		},
+		"plastic_gray_cut": {
+			"textures": "textures/blocks/plastic_gray_cut"
+		},
+		"plastic_gray_tiles": {
+			"textures": "textures/blocks/plastic_gray_tiles"
+		},
+		"plastic_green": {
+			"textures": "textures/blocks/plastic_green"
+		},
+		"plastic_green_cut": {
+			"textures": "textures/blocks/plastic_green_cut"
+		},
+		"plastic_green_tiles": {
+			"textures": "textures/blocks/plastic_green_tiles"
+		},
+		"plastic_light_blue": {
+			"textures": "textures/blocks/plastic_light_blue"
+		},
+		"plastic_light_blue_cut": {
+			"textures": "textures/blocks/plastic_light_blue_cut"
+		},
+		"plastic_light_blue_tiles": {
+			"textures": "textures/blocks/plastic_light_blue_tiles"
+		},
+		"plastic_lime": {
+			"textures": "textures/blocks/plastic_lime"
+		},
+		"plastic_lime_cut": {
+			"textures": "textures/blocks/plastic_lime_cut"
+		},
+		"plastic_lime_tiles": {
+			"textures": "textures/blocks/plastic_lime_tiles"
+		},
+		"plastic_magenta": {
+			"textures": "textures/blocks/plastic_magenta"
+		},
+		"plastic_magenta_cut": {
+			"textures": "textures/blocks/plastic_magenta_cut"
+		},
+		"plastic_magenta_tiles": {
+			"textures": "textures/blocks/plastic_magenta_tiles"
+		},
+		"plastic_orange": {
+			"textures": "textures/blocks/plastic_orange"
+		},
+		"plastic_orange_cut": {
+			"textures": "textures/blocks/plastic_orange_cut"
+		},
+		"plastic_orange_tiles": {
+			"textures": "textures/blocks/plastic_orange_tiles"
+		},
+		"plastic_pink": {
+			"textures": "textures/blocks/plastic_pink"
+		},
+		"plastic_pink_cut": {
+			"textures": "textures/blocks/plastic_pink_cut"
+		},
+		"plastic_pink_tiles": {
+			"textures": "textures/blocks/plastic_pink_tiles"
+		},
+		"plastic_purple": {
+			"textures": "textures/blocks/plastic_purple"
+		},
+		"plastic_purple_cut": {
+			"textures": "textures/blocks/plastic_purple_cut"
+		},
+		"plastic_purple_tiles": {
+			"textures": "textures/blocks/plastic_purple_tiles"
+		},
+		"plastic_red": {
+			"textures": "textures/blocks/plastic_red"
+		},
+		"plastic_red_cut": {
+			"textures": "textures/blocks/plastic_red_cut"
+		},
+		"plastic_red_tiles": {
+			"textures": "textures/blocks/plastic_red_tiles"
+		},
+		"plastic_silver": {
+			"textures": "textures/blocks/plastic_silver"
+		},
+		"plastic_silver_cut": {
+			"textures": "textures/blocks/plastic_silver_cut"
+		},
+		"plastic_silver_tiles": {
+			"textures": "textures/blocks/plastic_silver_tiles"
+		},
+		"plastic_white": {
+			"textures": "textures/blocks/plastic_white"
+		},
+		"plastic_white_cut": {
+			"textures": "textures/blocks/plastic_white_cut"
+		},
+		"plastic_white_tiles": {
+			"textures": "textures/blocks/plastic_white_tiles"
+		},
+		"plastic_yellow": {
+			"textures": "textures/blocks/plastic_yellow"
+		},
+		"plastic_yellow_cut": {
+			"textures": "textures/blocks/plastic_yellow_cut"
+		},
+		"plastic_yellow_tiles": {
+			"textures": "textures/blocks/plastic_yellow_tiles"
 		}
 	}
 }

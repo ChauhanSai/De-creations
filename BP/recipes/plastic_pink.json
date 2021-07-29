@@ -1,0 +1,26 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csdec:plastic_pink"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "csdec:plastic",
+				"count": 1
+			},
+			{
+				"item": "minecraft:pink_dye",
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "csdec:plastic_pink"
+			}
+		]
+	}
+}

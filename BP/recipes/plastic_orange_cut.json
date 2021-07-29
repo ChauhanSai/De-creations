@@ -1,0 +1,26 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csdec:plastic_orange_cut"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"xx",
+			"xx"
+		],
+		"key": {
+			"x": {
+				"item": "csdec:plastic_orange_block"
+			}
+		},
+		"result": [
+			{
+				"item": "csdec:plastic_orange_cut",
+				"count": 4
+			}
+		]
+	}
+}
