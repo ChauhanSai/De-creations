@@ -9,7 +9,10 @@
 			"minecraft:icon": {
 				"texture": "plastic_magenta"
 			},
-			"minecraft:max_stack_size": 16
+			"minecraft:max_stack_size": 16,
+			"minecraft:creative_category": {
+				"category": "construction"
+			}
 		}
 	}
 }

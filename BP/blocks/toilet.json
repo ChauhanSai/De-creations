@@ -1,5 +1,5 @@
 {
-	"format_version": "1.16.100",
+	"format_version": "1.17.20",
 	"minecraft:block": {
 		"description": {
 			"properties": {
@@ -94,13 +94,17 @@
 				"conditions": [
 					{
 						"allowed_faces": [
-							"up"
+							"up",
+							"side"
 						]
 					}
 				]
 			},
 			"minecraft:on_player_placing": {
 				"event": "bridge:update_rotation"
+			},
+			"minecraft:creative_category": {
+				"category": "items"
 			}
 		},
 		"events": {

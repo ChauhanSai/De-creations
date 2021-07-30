@@ -1,12 +1,15 @@
 {
-	"format_version": "1.16.100",
+	"format_version": "1.17.20",
 	"minecraft:block": {
 		"description": {
 			"identifier": "csdec:plastic_block"
 		},
 		"components": {
 			"minecraft:destroy_time": 1,
-			"minecraft:map_color": "#959595"
+			"minecraft:map_color": "#959595",
+			"minecraft:creative_category": {
+				"category": "construction"
+			}
 		}
 	}
 }

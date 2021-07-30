@@ -8,6 +8,9 @@
 		"components": {
 			"minecraft:icon": {
 				"texture": "plastic"
+			},
+			"minecraft:creative_category": {
+				"category": "construction"
 			}
 		}
 	}
