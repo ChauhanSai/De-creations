@@ -2,14 +2,14 @@
 	"format_version": 1.12,
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "csdec:fridge_bottom"
+			"identifier": "csdec:sink"
 		},
 		"tags": [
 			"decreation"
 		],
 		"pattern": [
-			"ppp",
-			"ppp",
+			"p p",
+			"p p",
 			"ppp"
 		],
 		"key": {
@@ -63,7 +63,7 @@
 			}
 		},
 		"result": {
-			"item": "csdec:fridge_bottom"
+			"item": "csdec:sink"
 		}
 	}
 }

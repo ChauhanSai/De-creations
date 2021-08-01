@@ -2,15 +2,15 @@
 	"format_version": 1.12,
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "csdec:fridge_bottom"
+			"identifier": "csdec:sticks"
 		},
 		"tags": [
 			"decreation"
 		],
 		"pattern": [
-			"ppp",
-			"ppp",
-			"ppp"
+			"n n",
+			" n ",
+			"n n"
 		],
 		"key": {
 			"a": {
@@ -63,7 +63,7 @@
 			}
 		},
 		"result": {
-			"item": "csdec:fridge_bottom"
+			"item": "csdec:sticks"
 		}
 	}
 }

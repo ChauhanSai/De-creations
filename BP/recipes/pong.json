@@ -2,15 +2,14 @@
 	"format_version": 1.12,
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "csdec:fridge_bottom"
+			"identifier": "csdec:pong"
 		},
 		"tags": [
 			"decreation"
 		],
 		"pattern": [
-			"ppp",
-			"ppp",
-			"ppp"
+			"a o",
+			"plp"
 		],
 		"key": {
 			"a": {
@@ -63,7 +62,7 @@
 			}
 		},
 		"result": {
-			"item": "csdec:fridge_bottom"
+			"item": "csdec:pong"
 		}
 	}
 }

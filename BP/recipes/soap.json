@@ -2,15 +2,13 @@
 	"format_version": 1.12,
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "csdec:fridge_bottom"
+			"identifier": "csdec:soap"
 		},
 		"tags": [
 			"decreation"
 		],
 		"pattern": [
-			"ppp",
-			"ppp",
-			"ppp"
+			"ll"
 		],
 		"key": {
 			"a": {
@@ -63,7 +61,7 @@
 			}
 		},
 		"result": {
-			"item": "csdec:fridge_bottom"
+			"item": "csdec:soap"
 		}
 	}
 }

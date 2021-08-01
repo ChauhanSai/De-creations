@@ -3,7 +3,7 @@
 	"minecraft:item": {
 		"description": {
 			"identifier": "csdec:plastic_black",
-			"category": "nature"
+			"category": "construction"
 		},
 		"components": {
 			"minecraft:icon": {

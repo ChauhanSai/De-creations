@@ -2,15 +2,14 @@
 	"format_version": 1.12,
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "csdec:fridge_bottom"
+			"identifier": "csdec:rollback"
 		},
 		"tags": [
 			"decreation"
 		],
 		"pattern": [
-			"ppp",
-			"ppp",
-			"ppp"
+			"pp ",
+			"ppe"
 		],
 		"key": {
 			"a": {
@@ -63,7 +62,7 @@
 			}
 		},
 		"result": {
-			"item": "csdec:fridge_bottom"
+			"item": "csdec:rollback"
 		}
 	}
 }

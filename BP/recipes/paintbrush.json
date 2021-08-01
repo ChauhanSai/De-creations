@@ -2,15 +2,15 @@
 	"format_version": 1.12,
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "csdec:fridge_bottom"
+			"identifier": "csdec:paintbrush"
 		},
 		"tags": [
 			"decreation"
 		],
 		"pattern": [
-			"ppp",
-			"ppp",
-			"ppp"
+			"a",
+			"n",
+			"n"
 		],
 		"key": {
 			"a": {
@@ -63,7 +63,7 @@
 			}
 		},
 		"result": {
-			"item": "csdec:fridge_bottom"
+			"item": "csdec:paintbrush"
 		}
 	}
 }

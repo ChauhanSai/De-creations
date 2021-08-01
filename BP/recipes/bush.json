@@ -8,38 +8,62 @@
 			"decreation"
 		],
 		"pattern": [
-			"abc",
-			"def",
-			" h "
+			"bbb",
+			"bbb",
+			" n "
 		],
 		"key": {
 			"a": {
-				"item": "csdec:plastic_green"
+				"item": "csdec:plastic_red"
 			},
 			"b": {
 				"item": "csdec:plastic_green"
 			},
 			"c": {
-				"item": "csdec:plastic_green"
+				"item": "csdec:plastic_purple"
 			},
 			"d": {
-				"item": "csdec:plastic_green"
+				"item": "csdec:plastic_cyan"
 			},
 			"e": {
-				"item": "csdec:plastic_green"
+				"item": "csdec:plastic_silver"
 			},
 			"f": {
-				"item": "csdec:plastic_green"
+				"item": "csdec:plastic_gray"
+			},
+			"g": {
+				"item": "csdec:plastic_pink"
 			},
 			"h": {
+				"item": "csdec:plastic_lime"
+			},
+			"i": {
+				"item": "csdec:plastic_yellow"
+			},
+			"j": {
+				"item": "csdec:plastic_light_blue"
+			},
+			"k": {
+				"item": "csdec:plastic_magenta"
+			},
+			"l": {
+				"item": "csdec:plastic_orange"
+			},
+			"m": {
+				"item": "csdec:plastic_black"
+			},
+			"n": {
 				"item": "csdec:plastic_brown"
+			},
+			"o": {
+				"item": "csdec:plastic_blue"
+			},
+			"p": {
+				"item": "csdec:plastic_white"
 			}
 		},
-		"result": [
-			{
-				"item": "csdec:bush",
-				"count": 1
-			}
-		]
+		"result": {
+			"item": "csdec:bush"
+		}
 	}
 }
