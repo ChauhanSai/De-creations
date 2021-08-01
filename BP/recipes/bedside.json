@@ -1,0 +1,48 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csdec:bedside"
+		},
+		"tags": [
+			"decreation"
+		],
+		"pattern": [
+			"abc",
+			"d f",
+			"ghi"
+		],
+		"key": {
+			"a": {
+				"item": "csdec:plastic_brown"
+			},
+			"b": {
+				"item": "csdec:plastic_brown"
+			},
+			"c": {
+				"item": "csdec:plastic_brown"
+			},
+			"d": {
+				"item": "csdec:plastic_brown"
+			},
+			"f": {
+				"item": "csdec:plastic_brown"
+			},
+			"g": {
+				"item": "csdec:plastic_brown"
+			},
+			"h": {
+				"item": "csdec:plastic_brown"
+			},
+			"i": {
+				"item": "csdec:plastic_brown"
+			}
+		},
+		"result": [
+			{
+				"item": "csdec:bedside",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csdec:books"
+		},
+		"tags": [
+			"decreation"
+		],
+		"pattern": [
+			"def",
+			"ghi"
+		],
+		"key": {
+			"d": {
+				"item": "csdec:plastic_red"
+			},
+			"e": {
+				"item": "csdec:plastic_green"
+			},
+			"f": {
+				"item": "csdec:plastic_blue"
+			},
+			"g": {
+				"item": "csdec:plastic_red"
+			},
+			"h": {
+				"item": "csdec:plastic_green"
+			},
+			"i": {
+				"item": "csdec:plastic_blue"
+			}
+		},
+		"result": [
+			{
+				"item": "csdec:books",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csdec:bush"
+		},
+		"tags": [
+			"decreation"
+		],
+		"pattern": [
+			"abc",
+			"def",
+			" h "
+		],
+		"key": {
+			"a": {
+				"item": "csdec:plastic_green"
+			},
+			"b": {
+				"item": "csdec:plastic_green"
+			},
+			"c": {
+				"item": "csdec:plastic_green"
+			},
+			"d": {
+				"item": "csdec:plastic_green"
+			},
+			"e": {
+				"item": "csdec:plastic_green"
+			},
+			"f": {
+				"item": "csdec:plastic_green"
+			},
+			"h": {
+				"item": "csdec:plastic_brown"
+			}
+		},
+		"result": [
+			{
+				"item": "csdec:bush",
+				"count": 1
+			}
+		]
+	}
+}

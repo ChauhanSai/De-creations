@@ -1,0 +1,35 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csdec:csdeclog"
+		},
+		"tags": [
+			"decreation"
+		],
+		"pattern": [
+			"ef",
+			"hi"
+		],
+		"key": {
+			"e": {
+				"item": "csdec:plastic_brown"
+			},
+			"f": {
+				"item": "csdec:plastic_brown"
+			},
+			"h": {
+				"item": "csdec:plastic_brown"
+			},
+			"i": {
+				"item": "csdec:plastic_brown"
+			}
+		},
+		"result": [
+			{
+				"item": "csdec:csdeclog",
+				"count": 1
+			}
+		]
+	}
+}

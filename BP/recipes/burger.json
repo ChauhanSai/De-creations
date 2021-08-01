@@ -1,0 +1,41 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csdec:burger"
+		},
+		"tags": [
+			"decreation"
+		],
+		"pattern": [
+			"def",
+			"ghi"
+		],
+		"key": {
+			"d": {
+				"item": "csdec:plastic_yellow"
+			},
+			"e": {
+				"item": "csdec:plastic_green"
+			},
+			"f": {
+				"item": "csdec:plastic_red"
+			},
+			"g": {
+				"item": "csdec:plastic_brown"
+			},
+			"h": {
+				"item": "csdec:plastic_brown"
+			},
+			"i": {
+				"item": "csdec:plastic_brown"
+			}
+		},
+		"result": [
+			{
+				"item": "csdec:burger",
+				"count": 1
+			}
+		]
+	}
+}

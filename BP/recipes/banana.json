@@ -1,0 +1,45 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csdec:banana"
+		},
+		"tags": [
+			"decreation"
+		],
+		"pattern": [
+			"  c",
+			"def",
+			"ghi"
+		],
+		"key": {
+			"c": {
+				"item": "csdec:plastic_white"
+			},
+			"d": {
+				"item": "csdec:plastic_yellow"
+			},
+			"e": {
+				"item": "csdec:plastic_yellow"
+			},
+			"f": {
+				"item": "csdec:plastic_white"
+			},
+			"g": {
+				"item": "csdec:plastic_yellow"
+			},
+			"h": {
+				"item": "csdec:plastic_yellow"
+			},
+			"i": {
+				"item": "csdec:plastic_white"
+			}
+		},
+		"result": [
+			{
+				"item": "csdec:banana",
+				"count": 1
+			}
+		]
+	}
+}

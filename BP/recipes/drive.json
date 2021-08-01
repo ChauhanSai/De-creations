@@ -1,0 +1,31 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csdec:drive"
+		},
+		"tags": [
+			"decreation"
+		],
+		"pattern": [
+			"ghi"
+		],
+		"key": {
+			"g": {
+				"item": "csdec:plastic_white"
+			},
+			"h": {
+				"item": "csdec:plastic_light_blue"
+			},
+			"i": {
+				"item": "csdec:plastic_light_blue"
+			}
+		},
+		"result": [
+			{
+				"item": "csdec:drive",
+				"count": 1
+			}
+		]
+	}
+}

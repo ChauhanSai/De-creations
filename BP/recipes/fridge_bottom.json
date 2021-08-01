@@ -1,0 +1,51 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csdec:fridge_bottom"
+		},
+		"tags": [
+			"decreation"
+		],
+		"pattern": [
+			"abc",
+			"def",
+			"ghi"
+		],
+		"key": {
+			"a": {
+				"item": "csdec:plastic_white"
+			},
+			"b": {
+				"item": "csdec:plastic_white"
+			},
+			"c": {
+				"item": "csdec:plastic_white"
+			},
+			"d": {
+				"item": "csdec:plastic_white"
+			},
+			"e": {
+				"item": "csdec:plastic_white"
+			},
+			"f": {
+				"item": "csdec:plastic_white"
+			},
+			"g": {
+				"item": "csdec:plastic_white"
+			},
+			"h": {
+				"item": "csdec:plastic_white"
+			},
+			"i": {
+				"item": "csdec:plastic_white"
+			}
+		},
+		"result": [
+			{
+				"item": "csdec:fridge_bottom",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csdec:hockey"
+		},
+		"tags": [
+			"decreation"
+		],
+		"pattern": [
+			"d f",
+			"ghi"
+		],
+		"key": {
+			"d": {
+				"item": "csdec:plastic_red"
+			},
+			"f": {
+				"item": "csdec:plastic_blue"
+			},
+			"g": {
+				"item": "csdec:plastic_red"
+			},
+			"h": {
+				"item": "csdec:plastic_black"
+			},
+			"i": {
+				"item": "csdec:plastic_blue"
+			}
+		},
+		"result": [
+			{
+				"item": "csdec:hockey",
+				"count": 1
+			}
+		]
+	}
+}

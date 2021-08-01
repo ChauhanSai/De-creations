@@ -1,0 +1,51 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csdec:blender"
+		},
+		"tags": [
+			"decreation"
+		],
+		"pattern": [
+			"abc",
+			"def",
+			"ghi"
+		],
+		"key": {
+			"a": {
+				"item": "csdec:plastic_white"
+			},
+			"b": {
+				"item": "csdec:plastic_white"
+			},
+			"c": {
+				"item": "csdec:plastic_white"
+			},
+			"d": {
+				"item": "csdec:plastic_black"
+			},
+			"e": {
+				"item": "csdec:plastic_black"
+			},
+			"f": {
+				"item": "csdec:plastic_black"
+			},
+			"g": {
+				"item": "csdec:plastic_white"
+			},
+			"h": {
+				"item": "csdec:plastic_white"
+			},
+			"i": {
+				"item": "csdec:plastic_white"
+			}
+		},
+		"result": [
+			{
+				"item": "csdec:blender",
+				"count": 1
+			}
+		]
+	}
+}
