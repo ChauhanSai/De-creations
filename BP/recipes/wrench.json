@@ -8,9 +8,9 @@
 			"decreation"
 		],
 		"pattern": [
-			"a",
 			"f",
-			"f"
+			"a",
+			"a"
 		],
 		"key": {
 			"a": {
