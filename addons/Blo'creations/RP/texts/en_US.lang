@@ -1,0 +1,10 @@
+pack.name=Blo'creations RP
+pack.description=Custom decorative blocks with Blo'creations!
+tile.csblo:plastic_seagreen_block.name=Sea Green Plastic Block
+tile.csblo:plastic_seagreen_cut.name=Sea Green Cut Plastic
+tile.csblo:plastic_seagreen_tiles.name=Sea Green Plastic Tiles
+item.csblo:plastic_seagreen=Sea Green Plastic
+tile.csblo:plastic_midnightblue_block.name=Midnight Blue Plastic Block
+tile.csblo:plastic_midnightblue_cut.name=Midnight Blue Cut Plastic
+tile.csblo:plastic_midnightblue_tiles.name=Midnight Blue Plastic Tiles
+item.csblo:plastic_midnightblue=Midnight Blue Plastic

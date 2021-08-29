@@ -1,0 +1,26 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csblo:plastic_seagreen_tiles"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"xx",
+			"xx"
+		],
+		"key": {
+			"x": {
+				"item": "csblo:plastic_seagreen_cut"
+			}
+		},
+		"result": [
+			{
+				"item": "csblo:plastic_seagreen_tiles",
+				"count": 4
+			}
+		]
+	}
+}

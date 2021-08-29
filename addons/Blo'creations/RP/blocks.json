@@ -1,0 +1,37 @@
+{
+	"format_version": [
+		1,
+		1,
+		0,
+		1,
+		1,
+		0,
+		1,
+		1,
+		0
+	],
+	"csblo:plastic_seagreen_block": {
+		"textures": "plastic_seagreen",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_seagreen_cut": {
+		"textures": "plastic_seagreen_cut",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_seagreen_tiles": {
+		"textures": "plastic_seagreen_tiles",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_midnightblue_block": {
+		"textures": "plastic_midnightblue",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_midnightblue_cut": {
+		"textures": "plastic_midnightblue_cut",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_midnightblue_tiles": {
+		"textures": "plastic_midnightblue_tiles",
+		"sound": "lodestone"
+	}
+}

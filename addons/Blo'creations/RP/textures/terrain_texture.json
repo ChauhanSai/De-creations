@@ -1,0 +1,26 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Blo'creations",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"plastic_seagreen": {
+			"textures": "textures/blocks/plastic_seagreen"
+		},
+		"plastic_seagreen_cut": {
+			"textures": "textures/blocks/plastic_seagreen_cut"
+		},
+		"plastic_seagreen_tiles": {
+			"textures": "textures/blocks/plastic_seagreen_tiles"
+		},
+		"plastic_midnightblue": {
+			"textures": "textures/blocks/plastic_midnightblue"
+		},
+		"plastic_midnightblue_cut": {
+			"textures": "textures/blocks/plastic_midnightblue_cut"
+		},
+		"plastic_midnightblue_tiles": {
+			"textures": "textures/blocks/plastic_midnightblue_tiles"
+		}
+	}
+}

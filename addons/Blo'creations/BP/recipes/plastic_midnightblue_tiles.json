@@ -1,0 +1,26 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csblo:plastic_midnightblue_tiles"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"xx",
+			"xx"
+		],
+		"key": {
+			"x": {
+				"item": "csblo:plastic_midnightblue_cut"
+			}
+		},
+		"result": [
+			{
+				"item": "csblo:plastic_midnightblue_tiles",
+				"count": 4
+			}
+		]
+	}
+}
