@@ -21,6 +21,33 @@
 		},
 		"plastic_midnightblue_tiles": {
 			"textures": "textures/blocks/plastic_midnightblue_tiles"
+		},
+		"plastic_burlywood": {
+			"textures": "textures/blocks/plastic_burlywood"
+		},
+		"plastic_burlywood_cut": {
+			"textures": "textures/blocks/plastic_burlywood_cut"
+		},
+		"plastic_burlywood_tiles": {
+			"textures": "textures/blocks/plastic_burlywood_tiles"
+		},
+		"plastic_mundanecoral": {
+			"textures": "textures/blocks/plastic_mundanecoral"
+		},
+		"plastic_mundanecoral_cut": {
+			"textures": "textures/blocks/plastic_mundanecoral_cut"
+		},
+		"plastic_mundanecoral_tiles": {
+			"textures": "textures/blocks/plastic_mundanecoral_tiles"
+		},
+		"plastic_neonblurpleperiwinkle": {
+			"textures": "textures/blocks/plastic_neonblurpleperiwinkle"
+		},
+		"plastic_neonblurpleperiwinkle_cut": {
+			"textures": "textures/blocks/plastic_neonblurpleperiwinkle_cut"
+		},
+		"plastic_neonblurpleperiwinkle_tiles": {
+			"textures": "textures/blocks/plastic_neonblurpleperiwinkle_tiles"
 		}
 	}
 }

@@ -11,6 +11,21 @@
 			"textures": [
 				"textures/items/plastic_midnightblue"
 			]
+		},
+		"plastic_burlywood": {
+			"textures": [
+				"textures/items/plastic_burlywood"
+			]
+		},
+		"plastic_mundanecoral": {
+			"textures": [
+				"textures/items/plastic_mundanecoral"
+			]
+		},
+		"plastic_neonblurpleperiwinkle": {
+			"textures": [
+				"textures/items/plastic_neonblurpleperiwinkle"
+			]
 		}
 	}
 }

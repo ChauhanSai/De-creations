@@ -1,0 +1,25 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csblo:plastic_mundanecoral_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"xx",
+			"xx"
+		],
+		"key": {
+			"x": {
+				"item": "csblo:plastic_mundanecoral"
+			}
+		},
+		"result": [
+			{
+				"item": "csblo:plastic_mundanecoral_block"
+			}
+		]
+	}
+}

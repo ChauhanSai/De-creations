@@ -8,6 +8,15 @@
 		0,
 		1,
 		1,
+		0,
+		1,
+		1,
+		0,
+		1,
+		1,
+		0,
+		1,
+		1,
 		0
 	],
 	"csblo:plastic_seagreen_block": {
@@ -32,6 +41,42 @@
 	},
 	"csblo:plastic_midnightblue_tiles": {
 		"textures": "plastic_midnightblue_tiles",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_burlywood_block": {
+		"textures": "plastic_burlywood",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_burlywood_cut": {
+		"textures": "plastic_burlywood_cut",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_burlywood_tiles": {
+		"textures": "plastic_burlywood_tiles",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_mundanecoral_block": {
+		"textures": "plastic_mundanecoral",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_mundanecoral_cut": {
+		"textures": "plastic_mundanecoral_cut",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_mundanecoral_tiles": {
+		"textures": "plastic_mundanecoral_tiles",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_neonblurpleperiwinkle_block": {
+		"textures": "plastic_neonblurpleperiwinkle",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_neonblurpleperiwinkle_cut": {
+		"textures": "plastic_neonblurpleperiwinkle_cut",
+		"sound": "lodestone"
+	},
+	"csblo:plastic_neonblurpleperiwinkle_tiles": {
+		"textures": "plastic_neonblurpleperiwinkle_tiles",
 		"sound": "lodestone"
 	}
 }
