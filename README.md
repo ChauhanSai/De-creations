@@ -2,8 +2,9 @@
 Decorate your world to the fullest with De'creations!
 
 **Adds 32 New [Decorations](#decorations) & a Set of 51 [Decorative Blocks](#plastic)**
+
 **Addons:**
-- [Blo'creations](#blo-creations)
+- [Blo'creations](#blocreations)
 
 ## Decorations
 <table>
@@ -255,7 +256,7 @@ Decorate your world to the fullest with De'creations!
 
 # Blo'creations
 Custom decorative blocks with Blo'creations!
-<br/><img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic_blocks.png?raw=true" alt="Plastic Blocks" />
+<br/><br/><img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic_blocks.png?raw=true" alt="Plastic Blocks" />
 
 <p align="center">
 <img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/recipe.seagreen.png?raw=true" alt="Seagreen Plastic" width="24%" />
@@ -266,3 +267,54 @@ Custom decorative blocks with Blo'creations!
 
 <img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/recipe.seagreen_tiles.png?raw=true" alt="Cut Plastic to Plastic Tiles" width="24%" />
 </p>
+
+<table>
+ <tr> <!-- Row -->
+	<td align="center">Midnight Blue</td> <!-- Column -->
+	<td align="center">Seagreen</td>
+ </tr>
+ <tr>
+	<td>
+   		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic.midnightblue.png?raw=true" alt="Midnight Blue" width="100%"/>
+   		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.blue.png?raw=true" alt="Recipe" width="32%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.black.png?raw=true" alt="Recipe" width="32%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.black.png?raw=true" alt="Recipe" width="32%"/>
+  	</td>
+	<td>
+ 		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic.seagreen.png?raw=true" alt="Seagreen" width="100%"/>
+ 	 	<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.lime.png?raw=true" alt="Recipe" width="32%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.lightblue.png?raw=true" alt="Recipe" width="32%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.black.png?raw=true" alt="Recipe" width="32%"/>
+	</td>
+ </tr>
+ <tr> <!-- Row -->
+	<td align="center">Mundane Coral</td> <!-- Column -->
+	<td align="center">Burlywood</td>
+ </tr>
+ <tr>
+	<td>
+   		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic.mundanecoral.png?raw=true" alt="Midnight Blue" width="100%"/>
+   		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.pink.png?raw=true" alt="Recipe" width="32%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.orange.png?raw=true" alt="Recipe" width="32%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.red.png?raw=true" alt="Recipe" width="32%"/>
+  	</td>
+	<td>
+ 		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic.burlywood.png?raw=true" alt="Seagreen" width="100%"/>
+ 	 	<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.yellow.png?raw=true" alt="Recipe" width="32%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.white.png?raw=true" alt="Recipe" width="32%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.lightgray.png?raw=true" alt="Recipe" width="32%"/>
+	</td>
+ </tr>
+ <tr> <!-- Row -->
+	<td align="center">Neon Blurple Periwinkle</td> <!-- Column -->
+	<td align="center"> </td>
+ </tr>
+ <tr>
+	<td>
+   		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic.neonblurpleperiwinkle.png?raw=true" alt="Midnight Blue" width="100%"/>
+   		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.purple.png?raw=true" alt="Recipe" width="32%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.blue.png?raw=true" alt="Recipe" width="32%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.white.png?raw=true" alt="Recipe" width="32%"/>
+  	</td>
+	<td> </td>
+ </tr>
