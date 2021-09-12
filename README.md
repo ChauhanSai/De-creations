@@ -1,7 +1,9 @@
-# De-creations
+# De'creations
 Decorate your world to the fullest with De'creations!
 
 **Adds 32 New [Decorations](#decorations) & a Set of 51 [Decorative Blocks](#plastic)**
+**Addons:**
+- [Blo'creations](#blo-creations)
 
 ## Decorations
 <table>
@@ -232,15 +234,35 @@ Decorate your world to the fullest with De'creations!
 <img src="https://github.com/ChauhanSai/De-creations/blob/main/images/plastic_blocks.png?raw=true" alt="Plastic Blocks" />
 
 <p align="center">
-<img src="https://github.com/ChauhanSai/De-creations/blob/main/images/plastic.png?raw=true" alt="Charcoal to Plastic" width="24%" />
+<img src="https://github.com/ChauhanSai/De-creations/blob/main/images/recipe.plastic.png?raw=true" alt="Charcoal to Plastic" width="24%" />
 
-<img src="https://github.com/ChauhanSai/De-creations/blob/main/images/plastic_block.png?raw=true" alt="Plastic to Plastic Block" width="24%" />
+<img src="https://github.com/ChauhanSai/De-creations/blob/main/images/recipe.plastic_block.png?raw=true" alt="Plastic to Plastic Block" width="24%" />
 
-<img src="https://github.com/ChauhanSai/De-creations/blob/main/images/plastic_cut.png?raw=true" alt="Plastic Block to Cut Plastic" width="24%" />
+<img src="https://github.com/ChauhanSai/De-creations/blob/main/images/recipe.plastic_cut.png?raw=true" alt="Plastic Block to Cut Plastic" width="24%" />
 
-<img src="https://github.com/ChauhanSai/De-creations/blob/main/images/plastic_tiles.png?raw=true" alt="Cut Plastic to Plastic Tiles" width="24%" />
+<img src="https://github.com/ChauhanSai/De-creations/blob/main/images/recipe.plastic_tiles.png?raw=true" alt="Cut Plastic to Plastic Tiles" width="24%" />
 </p>
  
 <p align="center">
- <img src="https://github.com/ChauhanSai/De-creations/blob/main/images/plastic_orange.png?raw=true" alt="Dyeing Plastic" width="25%" />
+<img src="https://github.com/ChauhanSai/De-creations/blob/main/images/recipe.orange.png?raw=true" alt="Orange Plastic" width="24%" />
+
+<img src="https://github.com/ChauhanSai/De-creations/blob/main/images/recipe.orange_block.png?raw=true" alt="Plastic to Plastic Block" width="24%" />
+
+<img src="https://github.com/ChauhanSai/De-creations/blob/main/images/recipe.orange_cut.png?raw=true" alt="Plastic Block to Cut Plastic" width="24%" />
+
+<img src="https://github.com/ChauhanSai/De-creations/blob/main/images/recipe.orange_tiles.png?raw=true" alt="Cut Plastic to Plastic Tiles" width="24%" />
+</p>
+
+# Blo'creations
+Custom decorative blocks with Blo'creations!
+<br/><img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic_blocks.png?raw=true" alt="Plastic Blocks" />
+
+<p align="center">
+<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/recipe.seagreen.png?raw=true" alt="Seagreen Plastic" width="24%" />
+
+<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/recipe.seagreen_block.png?raw=true" alt="Plastic to Plastic Block" width="24%" />
+
+<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/recipe.seagreen_cut.png?raw=true" alt="Plastic Block to Cut Plastic" width="24%" />
+
+<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/recipe.seagreen_tiles.png?raw=true" alt="Cut Plastic to Plastic Tiles" width="24%" />
 </p>
