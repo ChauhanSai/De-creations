@@ -35,5 +35,12 @@
 			],
 			"uuid": "c1d27cd4-5276-43f6-bf23-f7fc14069b0c"
 		}
-	]
+	],
+	"metadata": {
+		"generated_with": {
+			"bridge": [
+				"2.1.2"
+			]
+		}
+	}
 }

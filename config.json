@@ -7,10 +7,21 @@
 	"bridge": {
 		"v1CompatMode": true
 	},
-	"capabilities": [],
 	"namespace": "csdec",
 	"targetVersion": "1.17.20",
 	"name": "De'creations",
 	"description": "Decorate your world to the fullest with De'creations!",
-	"author": "ChauhanSai"
+	"experimentalGameplay": {
+		"enableGameTestFramework": false,
+		"additionalModdingCapabilities": false,
+		"cavesAndCliffs": true,
+		"holidayCreatorFeatures": true,
+		"creationOfCustomBiomes": true,
+		"upcomingCreatorFeatures": true,
+		"experimentalMolangFeatures": true,
+		"educationEdition": true
+	},
+	"authors": [
+		"ChauhanSai"
+	]
 }

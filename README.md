@@ -1,7 +1,7 @@
 # De'creations
 Decorate your world to the fullest with De'creations!
 
-**Adds 32 New [Decorations](#decorations) & a Set of 51 [Decorative Blocks](#plastic)**
+**Adds 30 New [Decorations](#decorations) & a Set of 51 [Decorative Blocks](#plastic)**
 
 **Addons:**
 - [Blo'creations](#blocreations)
@@ -276,15 +276,15 @@ Custom decorative blocks with Blo'creations!
  <tr>
 	<td>
    		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic.midnightblue.png?raw=true" alt="Midnight Blue" width="100%"/>
-   		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.blue.png?raw=true" alt="Recipe" width="32%"/>
-		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.black.png?raw=true" alt="Recipe" width="32%"/>
-		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.black.png?raw=true" alt="Recipe" width="32%"/>
+   		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.blue.png?raw=true" alt="Recipe" width="30%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.black.png?raw=true" alt="Recipe" width="30%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.black.png?raw=true" alt="Recipe" width="30%"/>
   	</td>
 	<td>
  		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic.seagreen.png?raw=true" alt="Seagreen" width="100%"/>
- 	 	<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.lime.png?raw=true" alt="Recipe" width="32%"/>
-		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.lightblue.png?raw=true" alt="Recipe" width="32%"/>
-		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.black.png?raw=true" alt="Recipe" width="32%"/>
+ 	 	<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.lime.png?raw=true" alt="Recipe" width="30%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.lightblue.png?raw=true" alt="Recipe" width="30%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.black.png?raw=true" alt="Recipe" width="30%"/>
 	</td>
  </tr>
  <tr> <!-- Row -->
@@ -294,15 +294,15 @@ Custom decorative blocks with Blo'creations!
  <tr>
 	<td>
    		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic.mundanecoral.png?raw=true" alt="Midnight Blue" width="100%"/>
-   		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.pink.png?raw=true" alt="Recipe" width="32%"/>
-		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.orange.png?raw=true" alt="Recipe" width="32%"/>
-		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.red.png?raw=true" alt="Recipe" width="32%"/>
+   		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.pink.png?raw=true" alt="Recipe" width="30%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.orange.png?raw=true" alt="Recipe" width="30%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.red.png?raw=true" alt="Recipe" width="30%"/>
   	</td>
 	<td>
  		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic.burlywood.png?raw=true" alt="Seagreen" width="100%"/>
- 	 	<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.yellow.png?raw=true" alt="Recipe" width="32%"/>
-		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.white.png?raw=true" alt="Recipe" width="32%"/>
-		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.lightgray.png?raw=true" alt="Recipe" width="32%"/>
+ 	 	<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.yellow.png?raw=true" alt="Recipe" width="30%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.white.png?raw=true" alt="Recipe" width="30%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.lightgray.png?raw=true" alt="Recipe" width="30%"/>
 	</td>
  </tr>
  <tr> <!-- Row -->
@@ -312,9 +312,9 @@ Custom decorative blocks with Blo'creations!
  <tr>
 	<td>
    		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic.neonblurpleperiwinkle.png?raw=true" alt="Midnight Blue" width="100%"/>
-   		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.purple.png?raw=true" alt="Recipe" width="32%"/>
-		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.blue.png?raw=true" alt="Recipe" width="32%"/>
-		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.white.png?raw=true" alt="Recipe" width="32%"/>
+   		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.purple.png?raw=true" alt="Recipe" width="30%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.blue.png?raw=true" alt="Recipe" width="30%"/>
+		<img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/dye.white.png?raw=true" alt="Recipe" width="30%"/>
   	</td>
 	<td> </td>
  </tr>
