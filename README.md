@@ -1,10 +1,6 @@
 # De'creations
 Decorate your world to the fullest with De'creations!
 
-<video src="https://github.com/ChauhanSai/De-creations/blob/main/images/Trailer.mp4?raw=true" controls="">
-	Video not supported by your browser
-</video>
-
 **Adds 30 New [Decorations](#decorations) & a Set of 51 [Decorative Blocks](#plastic)**
 
 **Addons:**
