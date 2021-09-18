@@ -1,6 +1,9 @@
 # De'creations
 Decorate your world to the fullest with De'creations!
 
+## Watch the Trailer
+<a href="https://youtu.be/-TRLEKwGiQk"> <img src="https://github.com/ChauhanSai/De-creations/blob/main/images/Thumb.png?raw=true" alt="Watch the Trailer" /> </a>
+
 **Adds 30 New [Decorations](#decorations) & a Set of 51 [Decorative Blocks](#plastic)**
 
 **Addons:**
