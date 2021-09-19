@@ -1,14 +1,20 @@
 # De'creations
 Decorate your world to the fullest with De'creations!
 
-## Watch the Trailer
-<a href="https://youtu.be/-TRLEKwGiQk"> <img src="https://github.com/ChauhanSai/De-creations/blob/main/images/Thumb.png?raw=true" alt="Watch the Trailer" /> </a>
-
 **Adds 30 New [Decorations](#decorations) & a Set of 51 [Decorative Blocks](#plastic)**
 
 **Addons:**
 - [Blo'creations](#blocreations)
 
+## Watch the Trailer
+<a href="https://youtu.be/-TRLEKwGiQk"> <img src="https://github.com/ChauhanSai/De-creations/blob/main/images/Thumb.png?raw=true" alt="Watch the Trailer" /> </a>
+
+<h3 align="center">Download</h2>
+<section align="center">
+<a href="https://github.com/ChauhanSai/De-creations/releases/download/v1.0.0/De.creations.mcaddon"> <img src="https://github.com/ChauhanSai/De-creations/blob/main/images/pack_icon.png?raw=true" alt="Download De'creations" width="40%"/> </a>
+<a href="https://github.com/ChauhanSai/De-creations/releases/download/v1.0.0/Blo.creations.mcaddon"> <img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/pack_icon.png?raw=true" alt="Download Blo'creations" width="40%"/> </a>
+</section>
+	
 ## Decorations
 <table>
  <tr> <!-- Row -->
@@ -321,3 +327,6 @@ Custom decorative blocks with Blo'creations!
   	</td>
 	<td> </td>
  </tr>
+</table>
+
+<br/> <section align="center"><a href="#download"><img src="https://i.imgur.com/ynexOH5.jpg" width="20%"/></a></section>
