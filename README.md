@@ -345,4 +345,4 @@ Custom decorative blocks with Blo'creations!
 
 <hr/>
 
-<section align="center"><a href="https://github.com/ChauhanSai/De-creations/releases/download/v1.0.0/De.creations.mcaddon" onclick="location.href='https://github.com/ChauhanSai/De-creations/releases/download/v1.0.0/Blo.creations.mcaddon';" target="_blank" ><img src="https://i.imgur.com/ynexOH5.jpg" width="20%"/></a></section>
+<section align="center"><a href="https://github.com/ChauhanSai/De-creations/releases/tag/v1.0.0" target="_blank" ><img src="https://i.imgur.com/ynexOH5.jpg" width="20%"/></a></section>
