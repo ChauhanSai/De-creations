@@ -9,12 +9,24 @@ Decorate your world to the fullest with De'creations!
 ## Watch the Trailer
 <a href="https://youtu.be/-TRLEKwGiQk"> <img src="https://github.com/ChauhanSai/De-creations/blob/main/images/Thumb.png?raw=true" alt="Watch the Trailer" /> </a>
 
-<h3 align="center">Download</h2>
-<section align="center">
-<a href="https://github.com/ChauhanSai/De-creations/releases/download/v1.0.0/De.creations.mcaddon"> <img src="https://github.com/ChauhanSai/De-creations/blob/main/images/pack_icon.png?raw=true" alt="Download De'creations" width="40%"/> </a>
-<a href="https://github.com/ChauhanSai/De-creations/releases/download/v1.0.0/Blo.creations.mcaddon"> <img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/pack_icon.png?raw=true" alt="Download Blo'creations" width="40%"/> </a>
-</section>
-	
+<h1 align="center">Download:</h1>
+<table>
+ <tr> <!-- Row -->
+  <td align="center"><a href="https://github.com/ChauhanSai/De-creations/releases/download/v1.0.0/De.creations.mcaddon"> De'creations </a></td> <!-- Column -->
+  <td align="center"><a href="https://github.com/ChauhanSai/De-creations/releases/download/v1.0.0/Blo.creations.mcaddon"> Blo'creations </a></td>
+ </tr>
+ <tr>
+  <td>
+   <a href="https://github.com/ChauhanSai/De-creations/releases/download/v1.0.0/De.creations.mcaddon"> <img src="https://github.com/ChauhanSai/De-creations/blob/main/images/pack_icon.png?raw=true" alt="Download De'creations"/> </a>
+  </td>
+  <td>
+   <a href="https://github.com/ChauhanSai/De-creations/releases/download/v1.0.0/Blo.creations.mcaddon"> <img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/pack_icon.png?raw=true" alt="Download Blo'creations"/> </a>
+  </td>
+ </tr>
+</table>
+
+<hr/>
+
 ## Decorations
 <table>
  <tr> <!-- Row -->
@@ -263,6 +275,8 @@ Decorate your world to the fullest with De'creations!
 <img src="https://github.com/ChauhanSai/De-creations/blob/main/images/recipe.orange_tiles.png?raw=true" alt="Cut Plastic to Plastic Tiles" width="24%" />
 </p>
 
+<hr/>
+
 # Blo'creations
 Custom decorative blocks with Blo'creations!
 <br/><br/><img src="https://github.com/ChauhanSai/De-creations/blob/main/addons/Blo'creations/images/plastic_blocks.png?raw=true" alt="Plastic Blocks" />
@@ -329,4 +343,6 @@ Custom decorative blocks with Blo'creations!
  </tr>
 </table>
 
-<br/> <section align="center"><a href="#download"><img src="https://i.imgur.com/ynexOH5.jpg" width="20%"/></a></section>
+<hr/>
+
+<section align="center"><a href="#download"><img src="https://i.imgur.com/ynexOH5.jpg" width="20%"/></a></section>
